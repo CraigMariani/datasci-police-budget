@@ -10005,10 +10005,10 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-i18n@^6.20.4:
-  version "6.20.4"
-  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.20.4.tgz#1d06365d554853f715da71747781738673869aae"
-  integrity sha512-oYu/L4nLMV1QoEBdft6UEGx+qWp6yhl6STV1nRoNju6GZp1+atJzG3f3B6d/mwhRaJHrrp4mBjB9O6TeB3WWaQ==
+nuxt-i18n@^6.21.1:
+  version "6.21.1"
+  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.21.1.tgz#a69d581a870b8eac1d5b2f8812b92a41fbe29708"
+  integrity sha512-zjqqUMJgIDDxrJDO5Ot3s8F1y71A4otTyGyf/RmQHptfY1HpvqwFx8087p5vUOI9XoRsGHSYB4n4wcMxurw+qA==
   dependencies:
     "@babel/parser" "^7.5.5"
     "@babel/traverse" "^7.5.5"
